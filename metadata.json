@@ -1,0 +1,7 @@
+{
+  "name": "AI Timesheet Generator",
+  "description": "Generate a detailed timesheet by providing a calendar screenshot or text, and a voice narration of your work week. Gemini AI processes the inputs to create a structured Markdown timesheet.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
